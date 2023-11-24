@@ -4,7 +4,7 @@
 ##Actuator - Endpoint
 
 https://drive.google.com/file/d/1CDp3Qa4josx3TwwGIUKm41RJD9D2m1cG/view?usp=sharing
-
+<img align="center" width="100" height="100" src="[https://picsum.photos/100/100](https://drive.google.com/file/d/1CDp3Qa4josx3TwwGIUKm41RJD9D2m1cG/view?usp=sharing)">
 ## Registro de usuario
 
 Enviar el siguiente json para los registros:
