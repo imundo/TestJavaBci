@@ -3,8 +3,8 @@
 
 ##Actuator - Endpoint
 
-https://drive.google.com/file/d/1CDp3Qa4josx3TwwGIUKm41RJD9D2m1cG/view?usp=sharing
-<img align="center"  src="https://drive.google.com/file/d/1CDp3Qa4josx3TwwGIUKm41RJD9D2m1cG/view?usp=sharing">
+https://github.com/imundo/TestJavaBci/blob/main/img-endpoint.png
+<img align="center"  src="https://github.com/imundo/TestJavaBci/blob/main/img-endpoint.png">
 ## Registro de usuario
 
 Enviar el siguiente json para los registros:
