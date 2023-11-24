@@ -3,7 +3,6 @@
 
 ##Actuator - Endpoint
 
-https://github.com/imundo/TestJavaBci/blob/main/img-endpoint.png
 <img align="center"  src="https://github.com/imundo/TestJavaBci/blob/main/img-endpoint.png">
 ## Registro de usuario
 
