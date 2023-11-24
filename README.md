@@ -4,6 +4,7 @@
 ##Actuator - Endpoint
 
 <img align="center"  src="https://github.com/imundo/TestJavaBci/blob/main/img-endpoint.png">
+
 ## Registro de usuario
 
 Enviar el siguiente json para los registros:
